@@ -22,12 +22,10 @@ export default function Home() {
     </div> 
   <div className="flex flex-col min-h-screen justify-betwen items-center">
   <main className="">
-      <div className="flex flex-row box-border min-w-screen min-h-screen justify-between"> 
-      <img src="/mia.jpg" alt="imagen" className="h-80 w-64 border-solid  border-gray-700 border-8 rounded-full mb-16"/> 
-      <div className=" border-gray-700 border-8 bg-black h-96 w-2/3">
-      <h1 className="text-4xl text-white font-bold mb-10 px-6">Lizbeth Guadalupe Hernandez R</h1>
-      <p className="text-white font-bold text-1x1 mb-3 px-6">Soy una programadora con una pasión por explorar el mundo y los misterios del espacio. Mi amor por la programación me ha permitido crear soluciones creativas y eficientes para diversos problemas tecnológicos. Cuando no estoy inmersa en el código, me gusta embarcar en aventuras por todo mi pais y proximamente el mundo, absorbiendo nuevas culturas y ampliando su perspectiva. ​</p>
-      <p className="text-white font-bold text-1xl mb-1 px-6">Además,me siento fascinada por el cosmos y dedico mi tiempo libre a observar las estrellas y leer sobre los últimos descubrimientos astronómicos.Algunos dicen que tengo un intelecto brillante,pero considero que soy mas conocida por mi amabilidad y trato afable. Siempre dispuesta a ayudar a los demás, me he ganado el cariño y respeto de la gente que me rodea  </p>
+      <div className="flex flex-row box-border min-w-screen min-h-screen justify-center"> 
+      <div className=" border-gray-700 border-8 bg-black h-96 w-full">
+      <h1 className="text-4xl text-white font-bold mb-10 px-6">¿De verdad quieres contactarme? ʕ•́ᴥ•̀ʔっ♡ </h1>
+      <h1 className="text-1xl text-white font-bold mb-10 px-6">Aqui te dejo todos las redes sociales por las que me encuentras c:</h1>
       </div>
 </div>
       </main>
